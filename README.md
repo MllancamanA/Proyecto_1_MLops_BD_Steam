@@ -67,7 +67,7 @@ En esta etapa e llevó a cabo el modelado para el desarrollo del Sistema de Reco
 
 En esta fase se utilizó la plataforma [RENDER](https://www.render.com) para disponibilizar nuestra API en línea.
 
-Link al MPV:  [Deploy/link](https://deploy-9w66.onrender.com)
+Link al MPV:  [Deploy/link](https://proyecto-1-mlops-bd-steam.onrender.com/)
 
 
 ## Video Explicativo
