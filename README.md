@@ -44,15 +44,15 @@ En esta etapa se realizó un análisis profundo de las tres bases de datos con l
 
 Para el desarrollo de la API, se utilizó el framework FASTAPI. Las funciones creadas para los endpoints que serán consumidos en la API son:
 
-1. developer(desarrollador: str): Cantidad de items y porcentaje de contendio FrEE por año segun empresa desarrolladora.
+1. developer(desarrollador: str): Cantidad de items y porcentaje de contendio Free por año segun empresa desarrolladora.
 
-2. userdata(user_id: str): Deve devolver cantidad de dinero gastado  por el usuario, el procentaje de recomendación en base a reviews.recommend y cantidad de items.
+2. userdata(user_id: str): Debe devolver cantidad de dinero gastado  por el usuario, el procentaje de recomendación en base a reviews.recommend y cantidad de items.
 
 3. UserForGenre(genero: str): La función UserForGenre devuelve el usuario que acumula la mayor cantidad de horas jugadas para el género especificado, junto con una lista que muestra la acumulación de horas jugadas por año.
 
 4. best_developer_year(año: int): Devuelve el top 3 de de desarrolladores con juegos más recomendados por usuarios para el año dado.
 
-5. developer_reviews_analysis(desarrollador: str): egún la empresa desarrolladora, se devuelve un diccionario con el nombre de la desarrolladora como llave y una lista con la cantidad total 
+5. developer_reviews_analysis(desarrollador: str): según la empresa desarrolladora, se devuelve un diccionario con el nombre de la desarrolladora como llave y una lista con la cantidad total 
     de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento como valor. 
 
 
