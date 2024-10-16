@@ -27,8 +27,6 @@ Las etapas de este proyecto se resumen a continuación:
 
 - Funciones para el funcionamiento de la API: Implementación de las 5 funciones solicitadas con el objetivo de disponibilizar estas consultas al personal de la empresa.
 
-- Sistema de recomendación: Desarrollo de un modelo de Machine Learning cuyo objetivo es recomendar a los usuarios juegos similares a los que consume.
-
 - Implementación de la API y despliegue: Se utiliza RENDER para disponibilizar este MVP de forma online.
 
 - A continuación se detalla cada una de las etapas.
@@ -57,10 +55,7 @@ Para el desarrollo de la API, se utilizó el framework FASTAPI. Las funciones cr
 5. developer_reviews_analysis(desarrollador: str): egún la empresa desarrolladora, se devuelve un diccionario con el nombre de la desarrolladora como llave y una lista con la cantidad total 
     de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento como valor. 
 
-## Modelamiento (Machine Learning)
 
-En esta etapa e llevó a cabo el modelado para el desarrollo del Sistema de Recomendación, basado en la similitud del coseno, para lo cual se creó la función item-item, que recibe como input el id del juego y devuelve juegos recomendados similares.
-- Primera Función item-item, introduzco el id del juego y me devuelve juegos recomendados.
 
 
 ## Render/Deploy
