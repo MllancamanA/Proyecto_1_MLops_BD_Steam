@@ -10,7 +10,7 @@
 
 ## Contexto
 
-Como parte de mi formación como Cientista de Datos, elaboré este primer proyecto, simulando un entorno real de trabajo, que consistió en la elaboración de un Modelo de Recomendación de videojuegos para la plataforma STEAM, con el objetivo de que ésta permita mejorar la experiencia de sus usuarios.
+Como parte de mi formación como Cientista de Datos, elaboré este primer proyecto simulando un entorno real de trabajo, que consistió en la elaboración de un Modelo de Recomendación de videojuegos para la plataforma STEAM, con el objetivo de que ésta permita mejorar la experiencia de sus usuarios.
 
 ## Descripción del proyecto:
 
