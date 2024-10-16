@@ -14,7 +14,7 @@ Como parte de mi formación como Cientista de Datos, elaboré este primer proyec
 
 ## Descripción del proyecto:
 
-- El objetivo principal es desplegar una producto mínimo viable (MVP) de una API que le permita a los departamentos de Analytics y Machine Learning de la empresa STEAM realizar 5 consulta específicas relacionadas con los datos de sus usuarios y plataforma, además del modelo de recomendación de videojuegos, basado en un modelo ítem-ítem.
+- El objetivo principal es desplegar una producto mínimo viable (MVP) de una API que le permita a los departamentos de Analytics y Machine Learning de la empresa STEAM realizar 5 consulta específicas relacionadas con los datos de sus usuarios y plataforma, además del modelo de recomendación de videojuegos, basado en un modelo ítem-ítem o Item-usuario.
 
 
 ## Fases del Proyecto
