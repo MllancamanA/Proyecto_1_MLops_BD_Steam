@@ -1,4 +1,4 @@
-<h1 align="center"> Sistema de recomendación </h1>
+<h1 align="center"> Proyecto N ° 1 Henry </h1>
 
 
 <p align="center">
