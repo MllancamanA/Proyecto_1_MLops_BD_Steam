@@ -6,11 +6,11 @@ import pandas as pd
 app = FastAPI()
 
 # Se cargan los dataframes globalmente
-df_dev = pd.read_parquet(r"C:\Users\Lenovo\Desktop\Proyecto Individual\BD Funciones\endpoint_1.parquet")
-df_userdata= pd.read_parquet(r"C:\Users\Lenovo\Desktop\Proyecto Individual\BD Funciones\endpoint_2.parquet")
-df_genredata=pd.read_parquet(r"C:\Users\Lenovo\Desktop\Proyecto Individual\BD Funciones\endpoint_3.parquet")
-df_topdev=pd.read_parquet(r"C:\Users\Lenovo\Desktop\Proyecto Individual\BD Funciones\endpoint_4_5.parquet")
-df_dev_sentiment=pd.read_parquet(r"C:\Users\Lenovo\Desktop\Proyecto Individual\BD Funciones\endpoint_4_5.parquet")
+df_dev = pd.read_parquet(r"3. BD_API/endpoint_1.parquet")
+df_userdata= pd.read_parquet(r"3. BD_API/endpoint_2.parquet")
+df_genredata=pd.read_parquet(r"3. BD_API/endpoint_3.parquet")
+df_topdev=pd.read_parquet(r"3. BD_API/endpoint_4_5.parquet")
+df_dev_sentiment=pd.read_parquet(r"3. BD_API/endpoint_4_5.parquet")
 
 # 1. Endpoint: Developer Data
 @app.get("/developer/")
