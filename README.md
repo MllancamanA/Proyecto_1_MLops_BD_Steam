@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="center"> Desarrollo del Sistema de Recomendación para STEAM </h1>
+<h1 align="center"> Desarrollo de un Sistema de Recomendación para STEAM </h1>
 
 ## Contexto
 
