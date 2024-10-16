@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./imagen/steam.png" alt="STEAM" width="400">
+  <img src="./imagen/2. Datasets/Logo.png" alt="STEAM" width="400">
 </p>
 
 
